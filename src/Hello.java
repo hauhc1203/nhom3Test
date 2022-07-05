@@ -10,6 +10,7 @@ public class Hello extends JFrame {
         setSize(500,400);
         setLocationRelativeTo(null);
         setTitle("Hello");
+
         setVisible(true);
 
     }
